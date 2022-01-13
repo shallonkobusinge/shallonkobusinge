@@ -9,9 +9,9 @@
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shallonkobusinge&langs_count=8)](https://github.com/shallonkobusinge/github-readme-stats)
- 
+ -->
 
 <!-- links to your social media accounts -->
 
