@@ -15,9 +15,8 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shallonkobusinge&langs_count=8)](https://github.com/shallonkobusinge/github-readme-stats)
- -->
 
 <!-- links to your social media accounts -->
 
