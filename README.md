@@ -1,6 +1,5 @@
 # Hello, folks! 👋
  
- *Am Shallon Kobusinge nice to meet y'all😊* 
 [Let's connect...](https://shallon.vercel.app/)
 <!--  I'm a software developer from Rwanda currently a student at Rwanda Coding Academy. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. You can reach me on my email too kobshallon041@gmail.com
 
